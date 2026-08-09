@@ -3,7 +3,11 @@ Canvas and Cargo is a highly functional, utilitarian, and high-contrast theme fo
 
 This theme strips away unnecessary visual clutter, prioritizing readability, structural clarity, and seamless transitions between its two core states.
 
+<div align="center">
+
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/relks)
+
+</div>
 
 
 ✨ Core Features
